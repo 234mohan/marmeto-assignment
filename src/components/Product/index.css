@@ -1,0 +1,35 @@
+.container-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.men-image {
+  height: 300px;
+  width: 300px;
+  border-radius: 5px;
+}
+.con {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.heading {
+  width: 150px;
+  font-weight: 600;
+}
+.p {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 0px;
+}
+.button {
+  height: 40px;
+  width: 300px;
+  background-color: #000000;
+  color: white;
+  border-width: 0px;
+  border-radius: 5px;
+}
